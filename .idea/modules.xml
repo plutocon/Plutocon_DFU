@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Plutocon_DFU.iml" filepath="$PROJECT_DIR$/Plutocon_DFU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlutoconDFU.iml" filepath="$PROJECT_DIR$/PlutoconDFU.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/dfu/dfu.iml" filepath="$PROJECT_DIR$/dfu/dfu.iml" />
     </modules>
